@@ -1,10 +1,8 @@
 ## Hi there I'm amirreza👋
 
-I'm a python lover and intrested in back-end development and AI especially machine learning.
-I build back-end projects with django nowdays and I've worked for 1 year as a back-end developer in this amazing field.
-You can see my python, django and machine learning projects in my repo. 
+I am a passionate Python enthusiast with a strong focus on back-end development and AI, specifically machine learning. I am currently working on back-end projects using Django and have gained valuable one-year experience as a back-end developer in this dynamic field. You can explore my repository to find my Python, Django, and machine learning projects.
 
-Thank you and if I can be of assistance, please do not hesitate to contact me.
+Thank you, and if I can assist you in any way, please don't hesitate to contact me.
 
 Linkedin: https://www.linkedin.com/in/seyyed-amirreza-hosseini-2ba947320/
 
