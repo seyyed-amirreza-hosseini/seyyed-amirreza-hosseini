@@ -10,7 +10,14 @@
 - 💬 Ask me about **django, django rest framework**
 
 - 📫 How to reach me **hosseiniseyyedamirreza2003@gmail.com**
+#### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seyyed-amirreza-hosseini&show_icons=true&theme=radical)
 
+#### Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=seyyed-amirreza-hosseini&theme=radical)](https://git.io/streak-stats)
+
+#### Languages Used:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyyed-amirreza-hosseini&layout=compact&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/seyyed-amirreza-hosseini-2ba947320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seyyed-amirreza-hosseini-2ba947320/" height="30" width="40" /></a>
