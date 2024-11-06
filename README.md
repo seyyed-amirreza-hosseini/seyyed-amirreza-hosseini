@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amirreza</h1>
 <h3 align="center">Python developer with 3+ years of experience, specializing in Back-End development with Django for 2+ years. Interested in Deep Learning and LLMs.</h3>
 
-- 🔭 I’m currently working on [LMS](https://github.com/seyyed-amirreza-hosseini/learning-management-system)
+- 🔭 I’m currently working on [LMS](https://github.com/seyyed-amirreza-hosseini/youtube)
 
 - 🌱 I’m currently learning **Django, DRF**
 
