@@ -13,9 +13,6 @@
 #### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seyyed-amirreza-hosseini&show_icons=true&theme=radical)
 
-#### Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=seyyed-amirreza-hosseini&theme=radical)](https://git.io/streak-stats)
-
 #### Languages Used:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyyed-amirreza-hosseini&layout=compact&theme=radical)
 <h3 align="left">Connect with me:</h3>
